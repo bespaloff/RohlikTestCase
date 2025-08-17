@@ -1,0 +1,16 @@
+.env
+uv.lock
+.idea
+.python-version
+__pycache__
+*.log
+*.egg-info/
+.cache
+.pytest_cache
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
